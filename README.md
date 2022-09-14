@@ -102,6 +102,8 @@ units directly at the top-level?
   - SolidWorks?
   - What other modeling programs?
 
+  https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-import-excel-spreadsheets-into-Fusion-360-as-parameters.html
+
 - How do we assist the user in whatever ways are possible:
   - without overcomplicating the interface
   - without creating a burden of defining all sorts of types
