@@ -1,2 +1,8 @@
 name: Zef Houssney
-personal_project: Measurements
+repo_names:
+  - Measurements
+  - StarWars
+
+11-models-from-data:
+  - https://github.com/zef/StarWars/blob/main/StarWars/Person.swift#L16
+
