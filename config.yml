@@ -1,7 +1,11 @@
 name: Zef Houssney
+
 repo_names:
   - Measurements
   - StarWars
+
+10-ux-ui-criticism:
+    - https://youtu.be/nirl73zmV8g
 
 11-models-from-data:
   - https://github.com/zef/StarWars/blob/main/StarWars/Person.swift#L16
