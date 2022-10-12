@@ -10,3 +10,4 @@ repo_names:
 11-models-from-data:
   - https://github.com/zef/StarWars/blob/main/StarWars/Person.swift#L16
 
+project-check-in-1: https://github.com/zef/Measurements/issues/1
