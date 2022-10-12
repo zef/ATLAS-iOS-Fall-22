@@ -77,6 +77,7 @@ Exportable as something usable in code, like OpenSCAD formats.
       - value
       - can convert between different units of the same UnitType
 
+
 ### Frameworks
 
 https://developer.apple.com/documentation/foundation/units_and_measurement/
@@ -96,6 +97,13 @@ When selecting a unit, display a grid of unit options.
 When selecting unit, do you have to select the type first, or do we expose some
 units directly at the top-level?
 
+#### Calculations
+
+- Adding/subtracting units
+- area
+- volume (cubes, cylinders?)
+
+
 ### Questions
 
 - Is there a format that you can use to import parameters into Fusion360?
@@ -111,6 +119,10 @@ units directly at the top-level?
 - What is a good interface for dealing with entry of:
     Feet, Inches, Fractional Inches. This is often frustrating and I haven't
     used a good UI for it.
+
+- Would it be useful to collect location of recording as metadata?
+- Photos?
+
 
 ### App Name Ideas
 
